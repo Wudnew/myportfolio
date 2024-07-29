@@ -62,7 +62,6 @@ tqdm==4.66.2
 typing_extensions==4.10.0
 tzdata==2022.7
 urllib3==1.26.15
-vercel==0.2.1
 virtualenv==20.17.1
 virtualenv-clone==0.5.7
 virtualenvwrapper==6.1.0
